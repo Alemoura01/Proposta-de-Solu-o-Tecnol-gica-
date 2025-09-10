@@ -1,0 +1,63 @@
+# 🌍 Proposta de Solução Tecnológica  
+## Caso: Inclusão de Pessoas com Deficiência Visual no Transporte Público
+
+Este repositório contém uma proposta de solução tecnológica desenvolvida como parte do curso de **Análise e Desenvolvimento de Sistemas (ADS)**.  
+O objetivo é utilizar tecnologia para **inclusão, acessibilidade e sustentabilidade** no transporte público.
+
+📄 Acesse o documento completo em PDF:  
+👉 [Canvas_Aplicativo_Acessibilidade.pdf](Canvas_Aplicativo_Acessibilidade.pdf)
+
+---
+
+## 📌 Problema
+- Pessoas com deficiência visual enfrentam dificuldades de mobilidade e orientação ao usar transporte público.  
+- Falta de informações acessíveis em tempo real.  
+- Dependência de terceiros ou risco de acidentes.
+
+---
+
+## 💡 Solução Proposta
+- Aplicativo móvel acessível com integração a dados de transporte público.  
+- Recursos:  
+  - Audiodescrição em tempo real.  
+  - Alertas sonoros e táteis.  
+  - Geolocalização compartilhada com familiares.  
+  - Interface inclusiva seguindo diretrizes **WCAG**.  
+
+---
+
+## 🚀 Diferencial / Inovação
+- Combinação de **IA de reconhecimento de voz** + **mapas acessíveis**.  
+- Uso de **open data** para reduzir custos.  
+- Funcionalidade **offline parcial** em áreas sem internet estável.  
+
+---
+
+## 🌱 Impacto Social
+- **ODS 10 – Redução das Desigualdades**  
+- **ODS 11 – Cidades e Comunidades Sustentáveis**  
+- Promove **autonomia, segurança e inclusão**.
+
+---
+
+## ⚖️ Sustentabilidade
+- Uso de dados existentes (baixo custo).  
+- Incentivo ao transporte público, reduzindo emissões.  
+- Código aberto (*open source*) para estimular evolução comunitária.  
+
+---
+
+## 📊 Indicadores de Sucesso
+- Número de usuários ativos com deficiência visual.  
+- Redução de relatos de dificuldades no transporte.  
+- Feedback positivo de ONGs e familiares.
+
+---
+
+## 📂 Estrutura do Repositório
+- `Canvas_Aplicativo_Acessibilidade.pdf` → Documento completo em PDF  
+- `README.md` → Este arquivo de apresentação
+
+---
+
+✍️ Criado para fins acadêmicos no curso de **ADS**.
